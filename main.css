@@ -1,0 +1,25 @@
+body {
+	background: black;
+}
+
+.container {
+	max-width: 390px;
+	margin-top: 150px;
+}
+
+
+video {
+	border-radius: 15px;
+}
+
+button {
+	margin: 0 auto;
+	display: block;
+	width: 200px;
+	border:solid;
+	border-width: 1px;
+	background: white;
+	height: 40px;
+	border-radius: 12px;
+	border-color: whitesmoke;
+}
